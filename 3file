@@ -1,0 +1,31 @@
+<html>
+    <head><title>unordered list</title></head>
+    <body><h1>This is an unordered list</h1>
+    <ol>
+        <li>coffee</li>
+        <li>tea</li>
+        <li>milk</li>
+    </ol>
+    <hr>
+    <ol type="A">
+        <li>coffee</li>
+        <li>tea</li>
+        <li>milk</li>
+    </ol>
+    <ol type="a">
+        <li>coffee</li>
+        <li>tea</li>
+        <li>milk</li>
+    </ol>
+    <ol type="I">
+        <li>coffee</li>
+        <li>tea</li>
+        <li>milk</li> 
+    </ol>
+    <ol reversed>
+        <li>coffee</li>
+        <li>tea</li>
+        <li>milk</li> 
+    </ol>
+    </body>
+</html>
