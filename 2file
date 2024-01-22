@@ -1,0 +1,20 @@
+<html>
+    <head><title>introduction</title></head>
+    <body>
+        <h1>INTRODUCTION</h1><HR>
+        <p>NAME : TANYA UPADHYAY<BR>SEM : 1<BR>ROLL NUMBER : 2310992545</p><br><hr>
+            <h3>list of friends</h3>
+        <ol type="a" start = "7">
+            <li>Ridhima</li>
+            <li>Prince</li>
+            <li>Raghav</li>
+        </ol><HR>
+        <h3>list of items in class room</h3>
+        <ol type="A" start = "26" reversed>
+            <li>pen</li>
+            <li>laptop</li>
+            <li>notebook</li>
+            <li>pouch</li>
+        </ol><HR>
+    </body>
+</html>
